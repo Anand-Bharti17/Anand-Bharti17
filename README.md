@@ -1,21 +1,14 @@
-# [cite_start]Hi there, I'm Anand Bharti 👋 [cite: 1]
+# Hi there, I'm Anand Bharti 👋
 
-[cite_start]I am a Software Developer passionate about backend architecture, system design, and competitive programming[cite: 28, 29]. I enjoy building scalable systems and solving complex algorithmic challenges. [cite_start]I have solved over 2500+ algorithmic problems across various platforms[cite: 31]. 
+<div align="center">
+  <img src="https://img.shields.io/badge/LeetCode-Guardian_2129-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Guardian" />
+  <img src="https://img.shields.io/badge/CodeChef-5★_2083-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 5 Star" />
+  <img src="https://img.shields.io/badge/Codeforces-Expert_1772-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Expert" />
+</div>
 
-[cite_start]📫 **Let's connect:** [anandbharti799@gmail.com](mailto:anandbharti799@gmail.com) [cite: 2]
+I am a Software Developer passionate about backend architecture, system design, and competitive programming. I enjoy building scalable systems and solving complex algorithmic challenges, having solved over 2500+ problems across various platforms.
 
----
-
-## 🏆 Competitive Programming & Achievements
-
-I actively participate in competitive programming and hackathons:
-* [cite_start]**Leetcode:** Guardian (2129) [cite: 29]
-* **Codechef:** 5-Star (2083) | [cite_start]Global Rank 37 in Starters 172 (Div 1) [cite: 29, 36]
-* **Codeforces:** Expert (1772) | [cite_start]Global Rank 252 in Round 1012 (Div 2) [cite: 28, 36]
-* [cite_start]**Atcoder:** 1324 [cite: 29]
-* [cite_start]**ICPC:** Team Rank 210 in Preliminary Round 2024 [cite: 35]
-* [cite_start]**Meta Hacker Cup:** Global Rank 3746 [cite: 36]
-* [cite_start]**Hackathons:** Team Rank 1 & Problem Statement Winner in Hackfest 2025 [cite: 33]
+📫 **Let's connect:** [anandbharti799@gmail.com](mailto:anandbharti799@gmail.com)
 
 ---
 
@@ -49,21 +42,30 @@ I actively participate in competitive programming and hackathons:
 
 ### 1. Enterprise Spring Boot API (Production-Ready)
 * **Tech Stack:** Java, Spring Boot, Spring Security, Redis, Apache Kafka, Spring AI, Docker
-* **Highlights:** Developed a production-level backend architecture featuring secure authentication, caching via Redis, and event-driven messaging with Kafka. Integrated robust mail services, comprehensive system logging, and Spring AI capabilities for advanced data handling. 
+* **Highlights:** Developed a production-level backend architecture featuring secure authentication, caching via Redis, and event-driven messaging with Kafka. Integrated robust mail services, comprehensive system logging, and Spring AI capabilities for advanced data handling.
 
-### 2. Real-Time AI Assistant | [cite_start]*Hackfest 2025 Winning Project* [cite: 20, 33]
-* [cite_start]**Tech Stack:** Python, Pathway, Streamlit, OpenAI API, Docker [cite: 20]
-* [cite_start]**Highlights:** Built an enterprise-grade AI assistant capable of continuously ingesting and indexing streaming data[cite: 20]. [cite_start]Implemented RESTful APIs and an interactive UI for seamless Slack bot integration, reducing average resolution time by 30%[cite: 20, 21].
+### 2. Real-Time AI Assistant | *Hackfest 2025 Winning Project*
+* **Tech Stack:** Python, Pathway, Streamlit, OpenAI API, Docker
+* **Highlights:** Built an enterprise-grade AI assistant capable of continuously ingesting and indexing streaming data. Implemented RESTful APIs and an interactive UI for seamless external tool integration, reducing average resolution time by 30%.
 
-### [cite_start]3. Supermarket Automation Software [cite: 22]
-* [cite_start]**Tech Stack:** React.js, Express.js, Node.js, MongoDB, TailwindCSS [cite: 22]
-* [cite_start]**Highlights:** Developed a comprehensive sales system with robust authentication and role-based access control[cite: 24]. [cite_start]Automated billing, real-time inventory updates, and low-stock email alerts, which improved operational efficiency by 25%[cite: 24, 25].
+### 3. Supermarket Automation Software
+* **Tech Stack:** React.js, Express.js, Node.js, MongoDB, TailwindCSS
+* **Highlights:** Developed a comprehensive sales system with robust authentication and role-based access control. Automated billing, real-time inventory updates, and low-stock email alerts, which improved operational efficiency by 25%.
+
+---
+
+## 🏆 Achievements
+
+* **Atcoder:** 1324 Rating
+* **ICPC:** Team Rank 210 in Preliminary Round 2024
+* **Meta Hacker Cup:** Global Rank 3746
+* **Hackathons:** Team Rank 1 & Problem Statement Winner in Hackfest 2025
 
 ---
 
 ## 💼 Work Experience
 
-**Software Engineer - Intern | [cite_start]Bank of New York** (May 2025 – July 2025) [cite: 10, 11, 12]
-* Enhanced the ELIZA AI agent by integrating state machines and nugget APIs with payment database tables[cite: 14].
-* [cite_start]Optimized payment user rules using AST parsing and rule merging, achieving a 66% reduction in rules (from 24,000 to 8,000)[cite: 15].
-* [cite_start]Developed comprehensive Java unit test cases within a Spring Boot application for the Payment Enablement Group[cite: 13].
+**Software Engineer - Intern | Bank of New York** (May 2025 – July 2025)
+* Enhanced the ELIZA AI agent by integrating state machines and nugget APIs with payment database tables.
+* Optimized payment user rules using AST parsing and rule merging, achieving a 66% reduction in rules (from 24,000 to 8,000).
+* Developed comprehensive Java unit test cases within a Spring Boot application for the Payment Enablement Group.
