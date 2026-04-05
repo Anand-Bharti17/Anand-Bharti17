@@ -8,7 +8,7 @@
 
 ## About Me
 
-* Hey there! 🤩 I'm Anand Bharti. A `Software Developer` 🚀 from India.
+* Hey there! 🤩 I'm Anand Bharti. A `Software Developer` 🚀.
 * I'm currently an undergraduate pursuing my bachelor's in CSE.
 * I am a passionate programmer competing across different competitive programming platforms.
 * I am keenly interested in `Backend Architecture, Machine Learning, and System Design`.
